@@ -9,6 +9,6 @@
 // ==/UserScript==
 
 setInterval(function()
-           {
+{
    document.location.reload(true);
 }, 60000);
